@@ -3,7 +3,7 @@ package com.leo.demolocalization;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-//code for localization
+//code for localization ggggg
 public class MainActivity extends AppCompatActivity {
 
     @Override
