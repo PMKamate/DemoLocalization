@@ -3,6 +3,7 @@ package com.leo.demolocalization;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
+//code for localization
 public class MainActivity extends AppCompatActivity {
 
     @Override
@@ -10,5 +11,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
        // getActionBar().hide();
+
     }
 }
